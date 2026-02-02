@@ -1,0 +1,20 @@
+# Ignore node_modules if you add any npm packages later
+node_modules/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore Vercel
+.vercel
+
+# Ignore local environment files
+.env
+.env.local
+.env.*.local
